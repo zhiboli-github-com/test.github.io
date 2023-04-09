@@ -9,15 +9,21 @@ redirect_from:
 ---
 
 
+
+
+
 👨🏻‍💻 I'm a PhD student at University of Gothenburg.
 
 
-🔬 My research interests are wind speed change and wind energy.
+🔬 Wind speed change and wind energy.
 
 
-📽️ I am also interested in collaborating with others on the effect of climate change and varability on wind.
+📽️ I am interested in collaborating with others on the effect of climate change and varability on wind speed/energy.
 
-![Europe’s electricity generation from wind blown off course](/images/wind.jpg)
+![Europe’s electricity generation from wind blown off course](/images/wind.jpg){: width="600px"}
+
+
+
 
 
 # Selected Experience
