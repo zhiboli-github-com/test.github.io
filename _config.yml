@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cheng's academic homepage"
+title                    : "Cheng's homepage"
 title_separator          : "-"
 name                     : &name "SHEN Cheng / PhD"
 description              : &description "SHEN Cheng is interested in the near-surface wind speed change and its implications on wind energy,"

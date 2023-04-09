@@ -11,29 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Atmospheric Science, Yunnan University, 2011-2015
+* M.S. in Meteorology, East China Normal University, 2015-2018
+* Ph.D in Climatology, Göteborgs Universitet, 2022-Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2022: Researcher
+  * Nanjing Meteorological Bureau
+  * Duties included: Climate analysis
+  * Title: Principle Engineer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Language
+  * Tong-Tai Accent: Mothertongue
+  * Mandarin: Mothertongue
+  * English: fluent
+  * Swedish: Basic
+
+* Computer
+  * Python: Advanced
+  * Linux and Shell: Good
+  * MATLAB: Basic
+  * NCL, CDO, NCO: Advanced
+
 * Skill 3
 
 Publications
