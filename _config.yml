@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Cheng"
+title                    : "Cheng's academic homepage"
 title_separator          : "-"
 name                     : &name "SHEN Cheng / PhD"
 description              : &description "SHEN Cheng is interested in the near-surface wind speed change and its implications on wind energy,"
@@ -109,12 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/shen159876"
+  twitter          : "shen159876"
   vine             :
-  weibo            :
+  RCG              : "http://rcg.gvc.gu.se/"
   xing             :
   youtube          :
-  RCG        : "http://rcg.gvc.gu.se/"
 
 
 # Reading Files
