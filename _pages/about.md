@@ -11,8 +11,7 @@ redirect_from:
      
 
 
-![Europe’s electricity generation from wind blown off course](/images/wind.jpg) <center> Wind farm production is determined by wind speed</center>
-
+![Europe’s electricity generation from wind blown off course](/images/wind.jpg){: .align-right width="300px"}
 
 👨🏻‍💻 I'm a PhD student working on the near-surface wind speed change at University of Gothenburg, supervised by [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
 
