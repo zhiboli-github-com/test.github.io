@@ -12,14 +12,17 @@ redirect_from:
 
 
 ![Europe’s electricity generation from wind blown off course](/images/wind.jpg){: .align-right width="400px"}
-👨🏻‍💻 I'm a PhD student at University of Gothenburg.   
+👨🏻‍💻 I'm a PhD student working on the near-surface wind speed change at University of Gothenburg, supervised by [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
 
-🔬 Wind speed change and wind energy.   
+
+
+
+🔬 My research interested are wind speed change, wind energy, my work aim to assess and find the causes to changes in in wind speed and wind extreme events, using a combination of observational data and simulation models.
+
+
+
 
 📽️ Collaborations are welcome.
-
- 
-
 
 <p hidden> 
 # Selected Experience
