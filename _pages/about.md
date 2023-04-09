@@ -10,18 +10,18 @@ redirect_from:
 
 
 
-##
+#
 
+![Europe’s electricity generation from wind blown off course](/images/wind.jpg){: .align-right width="400px"}
 👨🏻‍💻 I'm a PhD student at University of Gothenburg.
 
 
 🔬 Wind speed change and wind energy.
 
 
-📽️ I am interested in collaborating with others on the effects of climate change \n and varability on wind speed/energy.
+📽️ Collaborations are welcome.
 
-![Europe’s electricity generation from wind blown off course](/images/wind.jpg){: width="600px"}
-## 
+ 
 
 
 #
