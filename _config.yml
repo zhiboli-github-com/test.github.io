@@ -13,7 +13,7 @@ name                     : &name "SHEN Cheng / PhD"
 description              : &description "SHEN Cheng is interested in the near-surface wind speed change and its implications on wind energy,"
 url                      : https://cheng.shen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/SHEN-Cheng/cheng.shen.github.io"
+repository               : "SHEN-Cheng/cheng.shen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)s
 words_per_minute         : 160
