@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Cheng Shen"
-  avatar           : "profile.png"
+  avatar           : "head.png"
   bio              : "Wind researcher"
   location         : "Gothenburg, Sweden"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.kr/citations?user=ovcygYkAAAAJ&hl=zh-CN"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Cheng-Shen-20"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1727-2638"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/shen159876"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  RCG        : "http://rcg.gvc.gu.se/"
 
 
 # Reading Files
