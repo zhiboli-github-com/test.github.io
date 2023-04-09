@@ -11,15 +11,15 @@ redirect_from:
      
 
 
-![Europe’s electricity generation from wind blown off course](/images/wind.jpg) <p hidden> # {: .align-right width="400px"}</p>
-<center> Wind farm production is determined by wind speed</center>
+![Europe’s electricity generation from wind blown off course](/images/wind.jpg) <center> Wind farm production is determined by wind speed</center>
+
 
 👨🏻‍💻 I'm a PhD student working on the near-surface wind speed change at University of Gothenburg, supervised by [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
 
 
 
 
-🔬 My research interests are wind speed change and wind energy, my work aims to assess and find the causes to changes in in wind speed and wind extreme events, using a combination of observationas, reanalysis and simulation models.
+🔬 My research interests are wind speed change and wind energy, my work aims to find the potential causes to changes in in wind speed and wind extreme events, using a combination of observationas, reanalysis and simulation models.
 
 
 
