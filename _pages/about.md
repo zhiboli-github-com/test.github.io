@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![Europe’s electricity generation from wind blown off course](/images/wind.jpg){: .align-right width="300px"}
 
 👨🏻‍💻 I'm a PhD student at University of Gothenburg.
 
@@ -18,6 +17,7 @@ redirect_from:
 
 📽️ I am also interested in collaborating with others on the effect of climate change and varability on wind.
 
+![Europe’s electricity generation from wind blown off course](/images/wind.jpg)
 
 
 # Selected Experience
