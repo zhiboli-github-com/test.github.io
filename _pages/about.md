@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-
+##
 
 👨🏻‍💻 I'm a PhD student at University of Gothenburg.
 
@@ -18,14 +18,14 @@ redirect_from:
 🔬 Wind speed change and wind energy.
 
 
-📽️ I am interested in collaborating with others on the effect of climate change and varability on wind speed/energy.
+📽️ I am interested in collaborating with others on the effects of climate change \n and varability on wind speed/energy.
 
 ![Europe’s electricity generation from wind blown off course](/images/wind.jpg){: width="600px"}
+## 
 
 
-
-
-
+#
+#
 # Selected Experience
 
 ## 🤖 Open Source Contributions
