@@ -28,7 +28,7 @@ Skills
 * Language
   * Tong-Tai Accent: Mothertongue
   * Mandarin: Mothertongue
-  * English: fluent
+  * English: Fluent
   * Swedish: Basic
 
 * Computer
