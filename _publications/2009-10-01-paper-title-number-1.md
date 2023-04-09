@@ -1,15 +1,12 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Dunn, R. J. H., Azorin-Molina, C., Menne, M. J., Zeng, Z., Casey, N. W., and Shen, C. (2022). Reduction in reversal of global stilling arising from correction to encoding of calm periods*. Environmental Research Communications, 4(6). doi:10.1088/2515-7620/ac770a
+Shen, C., Zha, J., Wu, J., and Zhao, D. (2021a). Centennial-scale variability of terrestrial near-surface wind speed over China from reanalysis. Journal of Climate, 1-52. doi:10.1175/jcli-d-20-0436.1
+Shen, C., Zha, J., Zhao, D., Wu, J., Fan, W., Yang, M., and Li, Z. (2021b). Estimating centennial-scale changes in global terrestrial near-surface wind speed based on CMIP6 GCMs. Environmental Research Letters, 16(8). doi:10.1088/1748-9326/ac1378
+Shen, C., Zha, J., Li, Z., Azorin-Molina, C., Deng, K., Minola, L., and Chen, D. (2022a). Evaluation of global terrestrial near-surface wind speed simulated by CMIP6 models and their future projections. Ann N Y Acad Sci, 1518(1), 249-263. doi:10.1111/nyas.14910
+Shen, C., Zha, J., Wu, J., Zhao, D., Azorin-Molina, C., Fan, W., and Yu, Y. (2022b). Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China? Atmospheric Research, 266. doi:10.1016/j.atmosres.2021.105948
+Wu, J., Zhang, S., Yang, Q., Zhao, D., Fan, W., Zhao, J., and Shen, C. (2021). Using particle swarm optimization to improve visibility-aerosol optical depth retrieval method. npj Climate and Atmospheric Science, 4(1). doi:10.1038/s41612-021-00207-5
+Zha, J.-L., Shen, C., Wu, J., Zhao, D.-M., Fan, W.-X., Jiang, H.-P., Azorin-molina, C., and Chen, D. (2022a). Effects of Northern Hemisphere Annular Mode on terrestrial near-surface wind speed over eastern China from 1979 to 2017. Advances in Climate Change Research, 13(6), 875-883. doi:10.1016/j.accre.2022.10.005
+Zha, J., Zhao, D., Wu, J., and Shen, C. (2021a). Terrestrial Near-Surface Wind Speed Variations in China: Research Progress and Prospects. Journal of Meteorological Research, 35(3), 537-556. doi:10.1007/s13351-021-0143-x
+Zha, J., Shen, C., Zhao, D., Wu, J., and Fan, W. (2021b). Slowdown and reversal of terrestrial near-surface wind speed and its future changes over eastern China. Environmental Research Letters, 16(3). doi:10.1088/1748-9326/abe2cd
+Zha, J., Shen, C., Wu, J., Zhao, D., Fan, W., Jiang, H., and Zhao, T. (2023). Evaluation and Projection of Changes in Daily Maximum Wind Speed over China Based on CMIP6. Journal of Climate, 36(5), 1503-1520. doi:10.1175/jcli-d-22-0193.1
+Zha, J., Shen, C., Li, Z., Wu, J., Zhao, D., Fan, W., Sun, M., Azorin-Molina, C., and Deng, K. (2021c). Projected changes in global terrestrial near-surface wind speed in 1.5 °C–4.0 °C global warming levels. Environmental Research Letters, 16(11). doi:10.1088/1748-9326/ac2fdd
+Zha, J., Shen, C., Zhao, D., Feng, J., Xu, Z., Wu, J., Fan, W., Luo, M., and Zhang, L. (2022b). Contributions of External Forcing and Internal Climate Variability to Changes in the Summer Surface Air Temperature over East Asia. Journal of Climate, 35(15), 5013-5032. doi:10.1175/jcli-d-21-0577.1
