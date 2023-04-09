@@ -10,13 +10,13 @@ redirect_from:
 
 
 
-#
-
 ![Europe’s electricity generation from wind blown off course](/images/wind.jpg){: .align-right width="400px"}
 👨🏻‍💻 I'm a PhD student at University of Gothenburg.
 
 
+
 🔬 Wind speed change and wind energy.
+
 
 
 📽️ Collaborations are welcome.
@@ -24,9 +24,9 @@ redirect_from:
  
 
 
-#
-#
+
 # Selected Experience
+
 
 ## 🤖 Open Source Contributions
 I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
