@@ -23,13 +23,18 @@ redirect_from:
 
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
 ------
-| Language | Computer |
-| --- | --- |
-| 江淮官话泰如片: 母语 | Python: Advanced |
-| Mandarin: Mothertongue | Linux and Shell: Good |
-| English: Fluent | MATLAB: Basic |
-| Swedish: Basic | NCL, CDO, NCO: Advanced |
-| | Github, Linux, WSL, Docker: Proficient |
+### Language
+- 江淮官话泰如片: 母语
+- Mandarin: Mothertongue
+- English: Fluent
+- Swedish: Basic
+
+### Computer
+- Python: Advanced
+- Linux and Shell: Good
+- MATLAB: Basic
+- NCL, CDO, NCO: Advanced
+- Github, Linux, WSL, Docker: Proficient
 
 ## 📰 <span style="color:#1E90FF">Publications</span>
 ------
