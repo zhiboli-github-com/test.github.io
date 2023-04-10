@@ -29,6 +29,11 @@ hr:nth-of-type(1) {
 
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
 ------
+<style>
+hr:nth-of-type(1) {
+ border-color: #1E90FF !important;
+}
+</style>
 * **Language**
   * Tong-Tai Accent: Mothertongue
   * Mandarin: Mothertongue
@@ -43,12 +48,23 @@ hr:nth-of-type(1) {
 
 ## 📰 <span style="color:#1E90FF">Publications</span>
 ------
+<style>
+hr:nth-of-type(1) {
+ border-color: #1E90FF !important;
+}
+</style>
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## 🧑🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
 ------
+<style>
+hr:nth-of-type(1) {
+ border-color: #1E90FF !important;
+}
+</style>
 I am/was a Teaching Assistant for the following courses:
 - ***Climate Data Applications***
   - [ID: GVN345](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Spring  2023
@@ -57,6 +73,11 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
 ------
+<style>
+hr:nth-of-type(1) {
+ border-color: #1E90FF !important;
+}
+</style>
 1. YU Yue (**Climater Engineer**, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
 2. Miguel Andres-Martin (**Master thesis**, 2022): *Near-surface wind speed trends and variability over the northern Antarctic Peninsula, 1979-2020*, Universidad Complutense de Madrid
 3. Bromwel Apondi (**Master thesis**, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
@@ -64,12 +85,22 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 🤙 <span style="color:#1E90FF">Contact</span>
 ------
+<style>
+hr:nth-of-type(1) {
+ border-color: #1E90FF !important;
+}
+</style>
 - **E-mail/Skype** (*<u>Urgent</u>*): shen159876@gmail.com
 - **QQ**: 397771745
 - **Work E-mail**: cheng.shen@gu.se
 
 ## 🏢 <span style="color:#1E90FF">Address</span>
 ------
+<style>
+hr:nth-of-type(1) {
+ border-color: #1E90FF !important;
+}
+</style>
 Guldhedsgatan 5A \
 Earth Sciences Centre, \
 Göteborg University \
