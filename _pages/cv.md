@@ -17,6 +17,9 @@ redirect_from:
 
 ## 👨‍💻 <span style="color:#1E90FF">Work experience</span>
 ------
+hr {
+    border: 1px solid #c13535;
+}
 * 2018-2022: Researcher
   * Nanjing Meteorological Bureau
   * Duties included: Climate analysis
@@ -58,9 +61,9 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 🤙 <span style="color:#1E90FF">Contact</span>
 ------
-- E-mail/Skype (*<u>Urgent</u>*): shen159876@gmail.com
-- QQ: 397771745
-- Work E-mail: cheng.shen@gu.se
+- **E-mail/Skype** (*<u>Urgent</u>*): shen159876@gmail.com
+- **QQ**: 397771745
+- **Work E-mail**: cheng.shen@gu.se
 
 ## 🏢 <span style="color:#1E90FF">Address</span>
 ------

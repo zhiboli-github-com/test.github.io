@@ -21,10 +21,6 @@ redirect_from:
 
 
 
-
-
-
-
 <p hidden> 
 # Selected Experience
 
