@@ -24,10 +24,11 @@ redirect_from:
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
 ------
 ### Language
-- Tong-Tai Accent: Mothertongue
+- 江淮官话泰如片: 母语
 - Mandarin: Mothertongue
 - English: Fluent
 - Swedish: Basic
+
 ### Computer
 - Python: Advanced
 - Linux and Shell: Good
