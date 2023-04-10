@@ -20,8 +20,6 @@ Work experience
 * 2018-2022: Researcher
   * Nanjing Meteorological Bureau
   * Duties included: Climate analysis
-  * Title: Principle Engineer
-
   
 Skills
 ======
