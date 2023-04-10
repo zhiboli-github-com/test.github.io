@@ -11,17 +11,11 @@ redirect_from:
      
 
 
-![Europe’s electricity generation from wind blown off course](/images/wind.jpg){: .align-right width="500px"}
+![Europe’s electricity generation from wind blown off course](/images/wind.jpg){: .align-right width="400px"}
 
-👨🏻‍💻 I'm a PhD student working on the near-surface wind speed change at Regional Climate Group [(RCG)](http://rcg.gvc.gu.se/) in University Gothenburg, supervised by [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
-
-
-
+👨🏻‍💻 I'm a PhD student working on the near-surface wind speed change at Regional Climate Group [(RCG)](http://rcg.gvc.gu.se/) in University Gothenburg, supervised by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
 
 🔬 My research interests are wind speed change and wind energy, my work aims to find the potential causes to changes in in wind speed and wind extreme events, using a combination of observationas, reanalysis and simulation models.
-
-
-
 
 📽️ Collaborations are welcome.
 
@@ -51,4 +45,25 @@ To further contribute to the Machine Learning community, I have a [YouTube](http
 </p>
 
 
+## 🧑🏻‍🏫 Teaching
+I am/was a Teaching Assistant for the following courses:
+- Spring  2023: *Climate Data Applications  [ID: GVN345](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345)*.   Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
+- Autumn 2022: *Climate Change and Society [ID: NG0220](https://www.gu.se/en/study-gothenburg/climate-change-and-society-ng0220)*. Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/).
 
+## 👨🏻‍🔬 Supervision
+1. Yue Yu (Climater Engineer, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)*, Nanjing Meteorological Bureau
+2. Miguel Andres-Martin (Master thesis, 2022): *Near-surface wind speed trends and variability over the northern Antarctic Peninsula, 1979-2020*, Universidad Complutense de Madrid
+3. Bromwel Apondi (Master thesis, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
+
+
+## 🤙 Contact
+- Personal Email/Skype: shen159876@gmail.com
+- QQ: 397771745
+- Work Email: cheng.shen@gu.se
+
+### 🏢 Address
+Guldhedsgatan 5A \
+Earth Sciences Centre, \
+Göteborg University \
+Box 460 \
+S-405 30 Gothenburg, Sweden
