@@ -44,11 +44,6 @@ redirect_from:
 
 ## 🧑🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
 ------
-<style>
-hr:{
- border-color: #1E90FF !important;
-}
-</style>
 I am/was a Teaching Assistant for the following courses:
 - ***Climate Data Applications***
   - [ID: GVN345](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Spring  2023
@@ -57,11 +52,6 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
 ------
-<style>
-hr:{
- border-color: #1E90FF !important;
-}
-</style>
 
 1. YU Yue (**Climater Engineer**, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
 2. Miguel Andres-Martin (**Master thesis**, 2022): *Near-surface wind speed trends and variability over the northern Antarctic Peninsula, 1979-2020*, Universidad Complutense de Madrid
@@ -76,14 +66,35 @@ hr:{
 
 ## 🏢 <span style="color:#1E90FF">Address</span>
 ------
-<style>
-hr:{
- border-color: #1E90FF !important;
-}
-</style>
 Guldhedsgatan 5A \
 Earth Sciences Centre, \
 Göteborg University \
 Box 460 \
 S-405 30 Gothenburg, Sweden
 
+<style>
+hr:nth-of-type(1) {
+ border-color: #1E90FF !important;
+}
+hr:nth-of-type(2) {
+ border-color: #1E90FF !important;
+}
+hr:nth-of-type(3) {
+ border-color: #1E90FF !important;
+}
+hr:nth-of-type(4) {
+ border-color: #1E90FF !important;
+}
+hr:nth-of-type(5) {
+ border-color: #1E90FF !important;
+}
+hr:nth-of-type(6) {
+ border-color: #1E90FF !important;
+}
+hr:nth-of-type(7) {
+ border-color: #1E90FF !important;
+}
+hr:nth-of-type(8) {
+ border-color: #1E90FF !important;
+}
+</style>
