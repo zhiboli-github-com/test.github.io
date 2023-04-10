@@ -8,21 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-\
 
-![Europe’s electricity generation from wind blown off course](/images/wind.jpg) \
+![Europe’s electricity generation from wind blown off course](/images/wind.jpg) 
 
-\
+
 
 👨🏻‍💻 I'm a PhD student working on the near-surface wind speed change at Regional Climate Group [(RCG)](http://rcg.gvc.gu.se/) in University Gothenburg, supervised by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
 
 🔬 My research interests are wind speed change and wind energy, my work aims to find the potential causes to changes in wind speed and wind extreme events, using a combination of observationas, reanalysis and simulation models.
 
 📽️ Collaborations are welcome.
-
-
-
-
 
 
 
