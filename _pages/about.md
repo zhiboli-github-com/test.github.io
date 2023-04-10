@@ -15,7 +15,7 @@ redirect_from:
 
 👨🏻‍💻 I'm a PhD student working on the near-surface wind speed change at Regional Climate Group [(RCG)](http://rcg.gvc.gu.se/) in University Gothenburg, supervised by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
 
-🔬 My research interests are wind speed change and wind energy, my work aims to find the potential causes to changes in in wind speed and wind extreme events, using a combination of observationas, reanalysis and simulation models.
+🔬 My research interests are wind speed change and wind energy, my work aims to find the potential causes to changes in wind speed and wind extreme events, using a combination of observationas, reanalysis and simulation models.
 
 📽️ Collaborations are welcome.
 
@@ -57,9 +57,9 @@ I am/was a Teaching Assistant for the following courses:
 4. YUAN Huishuang (Bachelor thesis, 2023): *Monthly near-surface changes over China and its connection to natural internal variability*, Yunnan University
 
 ## 🤙 Contact
-- Personal Email/Skype: shen159876@gmail.com
+- E-mail/Skype (<u>Urgent</u>): shen159876@gmail.com
 - QQ: 397771745
-- Work Email: cheng.shen@gu.se
+- Work E-mail: cheng.shen@gu.se
 
 ### 🏢 Address
 Guldhedsgatan 5A \
