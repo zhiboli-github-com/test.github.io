@@ -21,3 +21,9 @@ author_profile: true
 3. Zha, J., **Shen, C.** , Wu, J., Zhao, D., Fan, W., Jiang, H., and Zhao, T. (2023). Evaluation and Projection of Changes in Daily Maximum Wind Speed over China Based on CMIP6. _Journal of Climate, 36_(5), 1503-1520. doi:10.1175/jcli-d-22-0193.1
 2. Zha, J., **Shen, C.** , Li, Z., Wu, J., Zhao, D., Fan, W., Sun, M., Azorin-Molina, C., and Deng, K. (2021c). Projected changes in global terrestrial near-surface wind speed in 1.5 °C–4.0 °C global warming levels. _Environmental Research Letters, 16_(11). doi:10.1088/1748-9326/ac2fdd
 1. Zha, J., **Shen, C.** , Zhao, D., Feng, J., Xu, Z., Wu, J., Fan, W., Luo, M., and Zhang, L. (2022b). Contributions of External Forcing and Internal Climate Variability to Changes in the Summer Surface Air Temperature over East Asia. _Journal of Climate, 35_(15), 5013-5032. doi:10.1175/jcli-d-21-0577.1
+
+<style>
+hr:nth-of-type(1) {
+ border-color: #1E90FF !important;
+}
+</style>
