@@ -65,7 +65,6 @@ I am/was a Teaching Assistant for the following courses:
 ## 🗿 <span style="color:#1E90FF">Outreach</span>
 ------
 1. Creator of the WeChat Official Account "微信公众号：气海无涯" which has published more than 100 Python tutorials on atmospheric science, and there are over ten thousand subscribers
-2. Sven Lindqvists forskningsstiftelse (2023), Sweden 
 
 
 ## 🤙 <span style="color:#1E90FF">Contact</span>
