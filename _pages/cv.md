@@ -15,7 +15,7 @@ redirect_from:
 * M.S. in Meteorology, East China Normal University, 2015-2018
 * Ph.D in Climatology, Göteborgs Universitet, 2022-Present
 
-## 👨‍💻 <span style="color:#1E90FF">Work experience</span>
+## 👨‍💻 <span style="color:#1E90FF">Employment</span>
 ------
 * 2018-2022: Researcher
   * Nanjing Meteorological Bureau
@@ -23,19 +23,28 @@ redirect_from:
 
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
 ------
-### Language
-- 江淮官话泰如片: 母语
-- Mandarin: Mothertongue
-- English: Fluent
-- Swedish: Basic
 
-### Computer
-- Python: Advanced
-- Linux and Shell: Good
-- MATLAB: Basic
-- NCL, CDO, NCO: Advanced
-- Github, Linux, WSL, Docker: Proficient
-
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Language</b></td>
+    <td><b style="font-size:30px">Computer</b></td>
+ </tr>
+ <tr>
+    <td>
+          - 江淮官话泰如片: 母语
+          - Mandarin: Mothertongue
+          - English: Fluent
+          - Swedish: Basic
+    </td>
+    <td>
+        - Python: Advanced
+        - Linux and Shell: Good
+        - MATLAB: Basic
+        - NCL, CDO, NCO: Advanced
+        - Github, Linux, WSL, Docker
+    </td>
+ </tr>
+</table>
 
 ## 📰 <span style="color:#1E90FF">Publications</span>
 ------
@@ -53,11 +62,21 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
 ------
-
 1. YU Yue (**Climater Engineer**, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
 2. Miguel Andres-Martin (**Master thesis**, 2022): *Near-surface wind speed trends and variability over the northern Antarctic Peninsula, 1979-2020*, Universidad Complutense de Madrid
 3. Bromwel Apondi (**Master thesis**, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
 4. YUAN Huishuang (**Bachelor thesis**, 2023): *Monthly near-surface changes over China and its connection to natural internal variability*, Yunnan University
+
+## 🏅 <span style="color:#1E90FF">Awards and honors</span>
+------
+1. Research Fund Adlerbertska Stiftelse (2022), Sweden
+2. Sven Lindqvists forskningsstiftelse (2023), Sweden
+
+## 🗿 <span style="color:#1E90FF">Outreach</span>
+------
+1. Creator of the WeChat Official Account "微信公众号：气海无涯" which has published more than 100 Python tutorials on atmospheric science, and there are over ten thousand subscribers
+2. Sven Lindqvists forskningsstiftelse (2023), Sweden 
+
 
 ## 🤙 <span style="color:#1E90FF">Contact</span>
 ------
@@ -96,6 +115,12 @@ hr:nth-of-type(7) {
  border-color: #1E90FF !important;
 }
 hr:nth-of-type(8) {
+ border-color: #1E90FF !important;
+}
+hr:nth-of-type(9) {
+ border-color: #1E90FF !important;
+}
+hr:nth-of-type(10) {
  border-color: #1E90FF !important;
 }
 </style>
