@@ -9,18 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-## <font color=#1E90FF>Education</font>
-------<hr style="border: 1px solid gray">
+## <span style="color:#1E90FF">Education</span>
+------
 * B.S. in Atmospheric Science, Yunnan University, 2011-2015
 * M.S. in Meteorology, East China Normal University, 2015-2018
 * Ph.D in Climatology, Göteborgs Universitet, 2022-Present
-
 ## Work experience
-======
+------
 * 2018-2022: Researcher
   * Nanjing Meteorological Bureau
   * Duties included: Climate analysis
-  
 ## Skills
 ------
 * Language
@@ -52,18 +50,18 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 👨🏻‍🔬 Supervision
 ------
-1. YU Yue (Climater Engineer, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)*, Nanjing Meteorological Bureau
+1. YU Yue (Climater Engineer, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
 2. Miguel Andres-Martin (Master thesis, 2022): *Near-surface wind speed trends and variability over the northern Antarctic Peninsula, 1979-2020*, Universidad Complutense de Madrid
 3. Bromwel Apondi (Master thesis, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
 4. YUAN Huishuang (Bachelor thesis, 2023): *Monthly near-surface changes over China and its connection to natural internal variability*, Yunnan University
 
 ## 🤙 Contact
 ------
-- E-mail/Skype (<u>Urgent</u>): shen159876@gmail.com
+- E-mail/Skype (*<u>Urgent</u>*): shen159876@gmail.com
 - QQ: 397771745
 - Work E-mail: cheng.shen@gu.se
 
-### 🏢 Address
+## 🏢 Address
 ------
 Guldhedsgatan 5A \
 Earth Sciences Centre, \
