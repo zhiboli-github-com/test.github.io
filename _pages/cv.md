@@ -23,11 +23,6 @@ redirect_from:
 
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
 ------
-<style>
-hr:nth-of-type(1) {
- border-color: #1E90FF !important;
-}
-</style>
 <div class="row">
   <div class="column">
     
