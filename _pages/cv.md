@@ -17,9 +17,12 @@ redirect_from:
 
 ## 👨‍💻 <span style="color:#1E90FF">Work experience</span>
 ------
-hr {
-    border: 1px solid #c13535;
+<style>
+hr:nth-of-type(1) {
+ border-color: #1E90FF !important;
 }
+</style>
+
 * 2018-2022: Researcher
   * Nanjing Meteorological Bureau
   * Duties included: Climate analysis
