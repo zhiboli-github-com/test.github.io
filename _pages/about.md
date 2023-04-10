@@ -16,6 +16,7 @@ redirect_from:
 👨🏻‍💻 I'm a PhD student working on the near-surface wind speed change at Regional Climate Group [(RCG)](http://rcg.gvc.gu.se/) in University Gothenburg, supervised by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
 
 🔬 My research interests are wind speed change and wind energy, my work aims to find the potential causes to changes in in wind speed and wind extreme events, using a combination of observationas, reanalysis and simulation models.
+
 📽️ Collaborations are welcome.
 
 <p hidden> 
@@ -65,4 +66,4 @@ Guldhedsgatan 5A \
 Earth Sciences Centre, \
 Göteborg University \
 Box 460 \
-S-405 30 Gothenburg, Sweden \
+S-405 30 Gothenburg, Sweden
