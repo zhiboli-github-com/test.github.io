@@ -53,19 +53,19 @@ To further contribute to the Machine Learning community, I have a [YouTube](http
 
 ## Teaching
 I am/was a Teaching Assistant for the following courses:
-- Spring 2023: *GVN345 [Climate Data Applications](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345)*. Lectured by Dr Dr [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
-- Autumn 2022: *NG0220 [Climate Change and Society](https://www.gu.se/en/study-gothenburg/climate-change-and-society-ng0220)*. Lectured by Dr [Deliang Chen](http://rcg.gvc.gu.se/dc/).
+- Spring  2023: *Climate Data Applications  [ID: GVN345](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345)*.   Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/).   
+- Autumn 2022: *Climate Change and Society [ID: NG0220](https://www.gu.se/en/study-gothenburg/climate-change-and-society-ng0220)*. Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/).
 
 ## Supervision
-### Yue Yu (Climater Engineer, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)*, Nanjing Meteorological Bureau
-### Miguel Andres-Martin (Master thesis, 2022): *Near-surface wind speed trends and variability over the northern Antarctic Peninsula, 1979-2020*, Universidad Complutense de Madrid
-### Bromwel Apondi (Master thesis, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
+1. Yue Yu (Climater Engineer, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)*, Nanjing Meteorological Bureau
+2. Miguel Andres-Martin (Master thesis, 2022): *Near-surface wind speed trends and variability over the northern Antarctic Peninsula, 1979-2020*, Universidad Complutense de Madrid
+3. Bromwel Apondi (Master thesis, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
 
 
 ## Contact
-### Personal Email/Skype: shen159876@gmail.com
-### QQ: 397771745
-### Work Email: cheng.shen@gu.se
+- Personal Email/Skype: shen159876@gmail.com
+- QQ: 397771745
+- Work Email: cheng.shen@gu.se
 
 ### Address
 Guldhedsgatan 5A \
