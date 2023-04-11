@@ -57,7 +57,7 @@ I am/was a Teaching Assistant for the following courses:
 3. Bromwel Apondi (**Master thesis**, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
 4. YUAN Huishuang (**Bachelor thesis**, 2023): *Monthly near-surface changes over China and its connection to natural internal variability*, Yunnan University
 
-# 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
+## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
 ------
 1. 2021, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _**Attribution of global near-surface wind Speed**_ (Oral)
 2. 2021, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _**Assessment of offshore wind trends using global**_ centennial reanalysis products (Poster)
@@ -71,7 +71,7 @@ I am/was a Teaching Assistant for the following courses:
 # 🎚️ <span style="color:#1E90FF">Service</span>
 ------
 ## Workshop Organization
-- Wallenberg Conference Center, Gothenburg, Sweden. _**GU-SMHI Wind workshop**_, 2019, funded by Swedish FORMAS.
+- 2022, Wallenberg Conference Center, Gothenburg, Sweden. _**GU-SMHI Wind workshop**_
 
 
 ## 🏅 <span style="color:#1E90FF">Awards and honors</span>
