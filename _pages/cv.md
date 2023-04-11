@@ -81,7 +81,7 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 🗿 <span style="color:#1E90FF">Outreach</span>
 ------
-![气海无涯公众号二维码](/images/wechat.jpg){: .align-right width="160px"}
+![气海无涯公众号二维码](/images/wechat.jpg){: .align-right width="120px"}
 1. Leader of the WeChat Official Account team called '微信公众号：气海无涯', which is focused on publishing Python tutorials related to atmospheric science (more than ten thousand subscribers). Through this platform, we have successfully published over 100 tutorials, covering a wide range of topics in atmospheric science, you can scan on the QR code through wechat to subscribe it.
 
 ## 🤙 <span style="color:#1E90FF">Contact</span>
