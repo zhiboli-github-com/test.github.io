@@ -17,7 +17,7 @@ redirect_from:
 
 ## 👨‍💻 <span style="color:#1E90FF">Employment</span>
 ------
-* 2018-2022: ***Researcher**
+* 2018-2022: **Researcher**
   * Nanjing Meteorological Bureau
   * Duties included: Climate analysis
 
@@ -52,7 +52,7 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
 ------
-1. YU Yue (**Climater Engineer**, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
+1. YU Yue (**Climate Engineer**, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
 2. Miguel Andres-Martin (**Master thesis**, 2022): *Near-surface wind speed trends and variability over the northern Antarctic Peninsula, 1979-2020*, Universidad Complutense de Madrid
 3. Bromwel Apondi (**Master thesis**, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
 4. YUAN Huishuang (**Bachelor thesis**, 2023): *Monthly near-surface changes over China and its connection to natural internal variability*, Yunnan University
@@ -81,7 +81,7 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 🗿 <span style="color:#1E90FF">Outreach</span>
 ------
-![气海无涯公众号二维码](/images/wechat.jpg){: .align-right width="200px"}
+![气海无涯公众号二维码](/images/wechat.jpg){: .align-right width="180px"}
 1. Leader of the WeChat Official Account team called '微信公众号：气海无涯', which is focused on publishing Python tutorials related to atmospheric science (more than ten thousand subscribers). Through this platform, we have successfully published over 100 tutorials, covering a wide range of topics in atmospheric science, you can scan on the QR code through wechat to subscribe it.
 
 ## 🤙 <span style="color:#1E90FF">Contact</span>
