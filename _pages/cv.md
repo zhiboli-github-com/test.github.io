@@ -11,13 +11,13 @@ redirect_from:
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
 ------
-- *2011 - 2015*,B.S. in Atmospheric Science, Yunnan University, China
-- *2015 - 2018*,M.S. in Meteorology, East China Normal University, China
-- *2022 - Now*, Ph.D in Climatology, Göteborgs Universitet, Sweden
+- *2011 - 2015*, **B.S.** in Atmospheric Science, Yunnan University, China
+- *2015 - 2018*, **M.S.** in Meteorology, East China Normal University, China
+- *2022 - Now*,  **Ph.D** in Climatology, University of Gothenburg, Sweden
 
 ## 👨‍💻 <span style="color:#1E90FF">Employment</span>
 ------
-* 2018-2022: Researcher
+* 2018-2022: ****Researcher**
   * Nanjing Meteorological Bureau
   * Duties included: Climate analysis
 
@@ -81,8 +81,8 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 🗿 <span style="color:#1E90FF">Outreach</span>
 ------
-1. Creator of the WeChat Official Account "微信公众号：气海无涯" which has published more than 100 Python tutorials on atmospheric science, and there are over ten thousand subscribers
-
+![气海无涯公众号二维码](/images/wechat.jpg){: .align-right width="100px"}
+1. Leader of the WeChat Official Account team called '微信公众号：气海无涯', which is focused on publishing Python tutorials related to atmospheric science (more than ten thousand subscribers). Through this platform, we have successfully published over 100 tutorials, covering a wide range of topics in atmospheric science, you can scan on the QR code to subscribe it.
 
 ## 🤙 <span style="color:#1E90FF">Contact</span>
 ------
