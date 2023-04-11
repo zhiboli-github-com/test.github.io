@@ -11,9 +11,9 @@ redirect_from:
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
 ------
-* B.S. in Atmospheric Science, Yunnan University, 2011-2015
-* M.S. in Meteorology, East China Normal University, 2015-2018
-* Ph.D in Climatology, Göteborgs Universitet, 2022-Present
+- *2011 - 2015*,B.S. in Atmospheric Science, Yunnan University, China
+- *2015 - 2018*,M.S. in Meteorology, East China Normal University, China
+- *2022 - Now*, Ph.D in Climatology, Göteborgs Universitet, Sweden
 
 ## 👨‍💻 <span style="color:#1E90FF">Employment</span>
 ------
@@ -76,8 +76,8 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 🏅 <span style="color:#1E90FF">Awards and honors</span>
 ------
-1. Research Fund Adlerbertska Stiftelse (2022), Sweden
-2. Sven Lindqvists forskningsstiftelse (2023), Sweden
+1. 2022, Research Fund Adlerbertska Stiftelse, Sweden
+2. 2023, Sven Lindqvists forskningsstiftelse, Sweden
 
 ## 🗿 <span style="color:#1E90FF">Outreach</span>
 ------
