@@ -59,19 +59,19 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
 ------
-1. 2021, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _**Attribution of global near-surface wind Speed**_ (Oral)
-2. 2021, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _**Assessment of offshore wind trends using global**_ centennial reanalysis products (Poster)
-3. 2021, Beijing, China. Chinese Young Scientist Forum 2021, _**Influencing factors of global Interdecadal land wind speed changes**_ (Oral)
-4. 2021, Beijing, China. Chinese Climate Prediction and Climate Application Technology Forum 2021, _**Detection and attribution of global near-surface wind speed**_ (Oral)
-5. 2022, Vienna, Austria. EGU 2022, _**Projected changes in near-surface wind speed over Iberian Peninsula and associated atmosphere-ocean oscillations**_ (Oral)
-6. 2022, Singapore. AOGS 2022, _**Future changes in terrestrial near-surface wind speed under specific global warming levels**_ (Oral)
-7. 2022, Gothenburg, Sweden. GU-SMHI Wind workshop, _**Near-surface wind speed changes over land: simulations from the CMIP6 GCMs**_ (Oral)
-8. 2023, Vienna, Austria. EGU 2023, _**Evaluation and projection of global terrestrial near-surface wind speed based on CMIP6 GCMs**_ (Oral)
+1. 2021, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _Attribution of global near-surface wind Speed_ (Oral)
+2. 2021, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _Assessment of offshore wind trends using global_ centennial reanalysis products (Poster)
+3. 2021, Beijing, China. Chinese Young Scientist Forum 2021, _Influencing factors of global Interdecadal land wind speed changes_ (Oral)
+4. 2021, Beijing, China. Chinese Climate Prediction and Climate Application Technology Forum 2021, _Detection and attribution of global near-surface wind speed_ (Oral)
+5. 2022, Vienna, Austria. EGU 2022, _Projected changes in near-surface wind speed over Iberian Peninsula and associated atmosphere-ocean oscillations_ (Oral)
+6. 2022, Singapore. AOGS 2022, _Future changes in terrestrial near-surface wind speed under specific global warming levels_ (Oral)
+7. 2022, Gothenburg, Sweden. GU-SMHI Wind workshop, _Near-surface wind speed changes over land: simulations from the CMIP6 GCMs_ (Oral)
+8. 2023, Vienna, Austria. EGU 2023, _Evaluation and projection of global terrestrial near-surface wind speed based on CMIP6 GCMs_ (Oral)
 
 # 🎚️ <span style="color:#1E90FF">Service</span>
 ------
 ## Workshop Organization
-- 2022, Wallenberg Conference Center, Gothenburg, Sweden. _**GU-SMHI Wind workshop**_
+- 2022, Wallenberg Conference Center, Gothenburg, Sweden. _GU-SMHI Wind workshop_
 
 
 ## 🏅 <span style="color:#1E90FF">Awards and honors</span>
