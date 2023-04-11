@@ -57,6 +57,21 @@ I am/was a Teaching Assistant for the following courses:
 3. Bromwel Apondi (**Master thesis**, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
 4. YUAN Huishuang (**Bachelor thesis**, 2023): *Monthly near-surface changes over China and its connection to natural internal variability*, Yunnan University
 
+# 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
+------
+1. 2021.10, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _Attribution of global near-surface wind Speed_ (Oral)
+2. 2021.10, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _Assessment of offshore wind trends using global_ centennial reanalysis products (Poster)
+3. 2021.11, Beijing, China. Young Scientist Forum 2021, _Influencing factors of global Interdecadal land wind speed changes_ (Oral)
+4. 2021.11, Beijing, China. Climate Prediction and Climate Application Technology Forum 2021, _Detection and attribution of global near-surface wind speed_ (Oral).
+5. 2022.08, Singapore. AOGS 2022, _Future changes in terrestrial near-surface wind speed under specific global warming levels_ (Oral)
+6. 2022.12, Gothenburg, Sweden. GU-SMHI Wind workshop, _Near-surface wind speed changes over land: simulations from the CMIP6 GCMs_ (Oral)
+
+# 🎚️ <span style="color:#1E90FF">Service</span>
+------
+## Workshop Organization
+- Wallenberg Conference Center, Gothenburg, Sweden. _**GU-SMHI Wind workshop**_, 2019, funded by Swedish FORMAS.
+
+
 ## 🏅 <span style="color:#1E90FF">Awards and honors</span>
 ------
 1. Research Fund Adlerbertska Stiftelse (2022), Sweden
@@ -110,6 +125,12 @@ hr:nth-of-type(9) {
  border-color: #1E90FF !important;
 }
 hr:nth-of-type(10) {
+ border-color: #1E90FF !important;
+}
+hr:nth-of-type(11) {
+ border-color: #1E90FF !important;
+}
+hr:nth-of-type(12) {
  border-color: #1E90FF !important;
 }
 </style>
