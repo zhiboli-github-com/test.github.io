@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Die Luft der Freiheit weht"
+title                    : "The wind of freedom blows"
 title_separator          : "-"
 name                     : &name "SHEN Cheng / PhD"
 description              : &description "SHEN Cheng is interested in the near-surface wind speed change and its implications on wind energy,"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "SHEN Cheng (沈成)"
   avatar           : "head.jpg"
-  bio              : "Wind Climatologist" &nbsp; "The wind of freedom blows"
+  bio              : "Wind Climatologist" 
   location         : "Gothenburg, Sweden"
   employer         :
   pubmed           : 
