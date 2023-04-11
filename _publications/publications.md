@@ -12,10 +12,8 @@ author_profile: true
 &nbsp;
 ## <span style="color:#1E90FF">Submitted</span>
 ------
-1.Lorenzo Minola, Gangfeng Zhang, Tinghai Ou,Julia Kukulies, Julia Curio, Jose A. Guijarro, Kaiqiang Deng, Cesar Azorin-Molina, **Cheng Shen**, Alessandro Pezzoli, Deliang Chen. Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau, [Research Square](https://doi.org/10.21203/rs.3.rs-2470952/v1)
-2.Cesar Azorin-Molina, Amir Ali Safaei Pirooz, Shalenys Bedoya-Valestt,Eduardo Utrabo-Carazo, Miguel Andres-Martin, Cheng Shen, Lorenzo Minola, Jose A.
-Guijarro, Enric Aguilar, Manola Brunet, Richard G.J. Flay, Sergio M. Vicente8 Serrano, Tim R. McVicar, Deliang Chen. [_**Atmospheric Research**_](https://plu.mx/ssrn/a/?ssrn_id=4374157)
-
+1. Lorenzo Minola, Gangfeng Zhang, Tinghai Ou,Julia Kukulies, Julia Curio, Jose A. Guijarro, Kaiqiang Deng, Cesar Azorin-Molina, **Cheng Shen**, Alessandro Pezzoli, Deliang Chen. Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau, [Research Square](https://doi.org/10.21203/rs.3.rs-2470952/v1)
+2. Cesar Azorin-Molina, Amir Ali Safaei Pirooz, Shalenys Bedoya-Valestt,Eduardo Utrabo-Carazo, Miguel Andres-Martin, **Cheng Shen**, Lorenzo Minola, Jose A. Guijarro, Enric Aguilar, Manola Brunet, Richard G.J. Flay, Sergio M. Vicente8 Serrano, Tim R. McVicar, Deliang Chen. [_**Atmospheric Research**_](https://plu.mx/ssrn/a/?ssrn_id=4374157)
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
