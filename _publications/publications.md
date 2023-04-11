@@ -12,8 +12,14 @@ author_profile: true
 &nbsp;
 ## <span style="color:#1E90FF">Submitted</span>
 ------
-1. Lorenzo Minola, Gangfeng Zhang, Tinghai Ou,Julia Kukulies, Julia Curio, Jose A. Guijarro, Kaiqiang Deng, Cesar Azorin-Molina, **Cheng Shen**, Alessandro Pezzoli, Deliang Chen. Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau, [Research Square](https://doi.org/10.21203/rs.3.rs-2470952/v1)
-2. Cesar Azorin-Molina, Amir Ali Safaei Pirooz, Shalenys Bedoya-Valestt,Eduardo Utrabo-Carazo, Miguel Andres-Martin, **Cheng Shen**, Lorenzo Minola, Jose A. Guijarro, Enric Aguilar, Manola Brunet, Richard G.J. Flay, Sergio M. Vicente8 Serrano, Tim R. McVicar, Deliang Chen. [_**Atmospheric Research**_](https://plu.mx/ssrn/a/?ssrn_id=4374157)
+1. Lorenzo Minola, et al., Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau, [_**Research Square**_](https://doi.org/10.21203/rs.3.rs-2470952/v1)
+2. Cesar Azorin-Molina, et al., Biases in Wind Speed Measurements Due to Anemometer Changes, [_**Atmospheric Research**_](https://plu.mx/ssrn/a/?ssrn_id=4374157)
+3. Liu, Yi. et al., Impacts of anemometer changes, site relocations and processing methods on wind speed trends in China, [_**Science of the Total Environment**_]
+4. Chuan, Ting. et al., Decadal Change of the Near-Surface Wind Speed over China is Physically Linked to the East Asia Winter Monsoon, [_**Journal of Geophysical Research: Atmospheres**_]
+5. Zha, Jinlin. et al., Projected Near-surface Wind Speed Changes Over Central Asia based on Dynamical Downscaling with Bias-Corrected Global Climate Models, [_**Environmental Research Letters**_]
+6. Lorenzo Minola, et al., The contribution of large-scale atmospheric circulation to variations of observed near-surface wind speed across Sweden since 1926, [_**Climatic Change**_], accepted
+7. Miguel Andres-Martin, et al., Uncertainty in wind speed projections over the Iberian Peninsula: a comparison of CMIP6 GCMs and a downscaled RCM using WRF, [_**Geophysical Research Letters**_]
+
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
