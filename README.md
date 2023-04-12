@@ -1,1 +1,1 @@
-SHEN Cheng's academic page, powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
+“志合者，不以山海为远” -- 葛洪 《抱朴子》
