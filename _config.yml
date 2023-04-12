@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The winds of freedom blow"
+title                    : "Zhibo"
 title_separator          : "-"
 name                     : &name "SHEN Cheng / PhD"
 description              : &description "SHEN Cheng is interested in the near-surface wind speed change and its implications on wind energy,"
-url                      : https://shen-cheng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhiboli-github-com.github.io/test.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : shen-cheng/shen-cheng.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
