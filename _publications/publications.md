@@ -9,7 +9,7 @@ author_profile: true
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
-&nbsp;
+
 ## <span style="color:#1E90FF">Submitted</span>
 ------
 1. Lorenzo Minola, et al., Climatology of near-surface wind speed from observations and high-resolution climate modelsover the Tibetan Plateau, [_**Research Square**_](https://doi.org/10.21203/rs.3.rs-2470952/v1)
